@@ -2,7 +2,7 @@
 
 Este é um projeto em Node.js + TypeScript com foco em cadastro e gerenciamento de transações financeiras fictícias.
 
-Projeto baseado em estudos realizados na Alura, com modificações e personalizações.
+Projeto baseado em estudos realizados em diferentes plataformas, com modificações e personalizações.
 
 ## Funcionalidades
 
